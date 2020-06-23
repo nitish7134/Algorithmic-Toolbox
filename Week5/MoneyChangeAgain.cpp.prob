@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: MoneyChangeAgain","srcPath":"e:\\DSA Coursera\\Week5\\MoneyChangeAgain.cpp","tests":[{"id":1592932225217,"input":"2","output":"2"},{"id":1592932313368,"input":"34","output":"9"}],"timeLimit":3000,"url":"e:\\DSA Coursera\\Week5\\MoneyChangeAgain.cpp"}

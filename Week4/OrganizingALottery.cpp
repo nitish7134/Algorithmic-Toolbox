@@ -25,7 +25,6 @@
 
 using namespace std;
 
-int pointcnt[5000] = {0};
 
 struct seg
 {

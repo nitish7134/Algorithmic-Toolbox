@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: PrimitiveCalculator","srcPath":"e:\\DSA Coursera\\Week5\\PrimitiveCalculator.cpp","tests":[{"id":1592932742380,"input":"1","output":"0"},{"id":1592933351624,"input":"5","output":"3\n1 3 4 5"}],"timeLimit":3000,"url":"e:\\DSA Coursera\\Week5\\PrimitiveCalculator.cpp"}
