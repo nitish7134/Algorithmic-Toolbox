@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: MaximumAmountOfGold","srcPath":"e:\\DSA Coursera\\Week6\\MaximumAmountOfGold.cpp","tests":[{"id":1593771211255,"input":"10 3\n1 4 8","output":"9"}],"timeLimit":3000,"url":"e:\\DSA Coursera\\Week6\\MaximumAmountOfGold.cpp"}
