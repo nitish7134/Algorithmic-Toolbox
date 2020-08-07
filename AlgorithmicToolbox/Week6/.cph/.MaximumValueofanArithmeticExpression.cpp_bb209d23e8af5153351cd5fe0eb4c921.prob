@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: MaximumValueofanArithmeticExpression","srcPath":"e:\\DSA Coursera\\Week6\\MaximumValueofanArithmeticExpression.cpp","tests":[{"id":1595902489739,"input":"1+2-3*4-5","output":""}],"timeLimit":3000,"url":"e:\\DSA Coursera\\Week6\\MaximumValueofanArithmeticExpression.cpp"}

@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: ClosestPoints","srcPath":"e:\\DSA Coursera\\Week4\\ClosestPoints.cpp","tests":[{"id":1596664798582,"input":"11\n4 4\n-2 -2\n-3 -4\n-1 3\n2 3\n-4 0\n1 1\n-1 -1\n3 -1\n-4 2\n-2 4\n","output":"1.41421"}],"timeLimit":3000,"url":"e:\\DSA Coursera\\Week4\\ClosestPoints.cpp"}
