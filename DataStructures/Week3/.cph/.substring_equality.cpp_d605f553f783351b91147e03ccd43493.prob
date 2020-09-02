@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: substring_equality","srcPath":"e:\\DSA Coursera\\DataStructures\\Week3\\substring_equality.cpp","tests":[{"id":1598506146674,"input":"trololo\n4\n0 0 7\n2 4 3\n3 5 1\n1 3 2","output":"Yes\nYes\nYes\nNo"}],"timeLimit":3000,"url":"e:\\DSA Coursera\\DataStructures\\Week3\\substring_equality.cpp"}

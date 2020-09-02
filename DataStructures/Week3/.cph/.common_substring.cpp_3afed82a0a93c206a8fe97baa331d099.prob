@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: common_substring","srcPath":"e:\\DSA Coursera\\DataStructures\\Week3\\common_substring.cpp","tests":[{"id":1598525836135,"input":"cool toolbox\naaa bb\naabaa babbaab","output":"1 1 3\n0 1 0\n0 4 3"}],"timeLimit":3000,"url":"e:\\DSA Coursera\\DataStructures\\Week3\\common_substring.cpp"}
