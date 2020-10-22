@@ -1,7 +1,4 @@
 #include <bits/stdc++.h>
-#if defined(__unix__) || defined(__APPLE__)
-#include <sys/resource.h>
-#endif
 #define IOS                         \
   ios_base::sync_with_stdio(false); \
   cin.tie(NULL);                    \
